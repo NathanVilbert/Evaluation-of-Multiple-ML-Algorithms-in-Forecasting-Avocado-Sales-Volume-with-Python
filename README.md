@@ -15,7 +15,7 @@ This research project applies regression analysis techniques, including Gradient
 <H3 align="center">
   Tools Used<br><br>
   <a href=#>
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="RStudio">
+<img src="https://img.shields.io/badge/Made%20with-lightgrey?style=for-the-badge" alt="Made with"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   </a>
 </H3>
 
